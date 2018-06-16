@@ -13,3 +13,10 @@
 
 **Thoughts**: Going back to basics shed some light on things I forgot. Accessibility is more important than it seems. We take things for granted.
 I'll start a blog soon.
+
+
+### Day 3: June 16, 2018
+**Today's Progress**: I did more FreeCodeCamp. Did flexbox and css grid.
+
+**Thoughts**: I will do even more today. I really like how CSS grid works.
+
