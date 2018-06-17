@@ -20,3 +20,8 @@ I'll start a blog soon.
 
 **Thoughts**: I will do even more today. I really like how CSS grid works.
 
+
+### Day 4: June 18, 2018
+**Today's Progress**: Came up with an idea for the survey form page and refactored the tribute page.
+
+**Thoughts**: When it's difficult to do something you just have to start and that horrible feeling will pass.
