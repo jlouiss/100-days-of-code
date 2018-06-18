@@ -21,7 +21,17 @@ I'll start a blog soon.
 **Thoughts**: I will do even more today. I really like how CSS grid works.
 
 
-### Day 4: June 18, 2018
+### Day 4: June 17, 2018
 **Today's Progress**: Came up with an idea for the survey form page and refactored the tribute page.
 
 **Thoughts**: When it's difficult to do something you just have to start and that horrible feeling will pass.
+
+
+### Day 5: June 18, 2018
+**Today's Progress**: I brushed up my CSS animation skills with the survey form page.
+
+**Thoughts**: I'm thinking about doing the Javascript 30 challenge by wesbos.
+
+**Links**: https://codepen.io/JLouisS/pen/BVmmPK?editors=1100 (WIP)
+
+
