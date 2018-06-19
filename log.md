@@ -35,3 +35,9 @@ I'll start a blog soon.
 **Links**: https://codepen.io/JLouisS/pen/BVmmPK?editors=1100 (WIP)
 
 
+### Day 6: June 19, 2018
+**Today's Progress**: I worked on the survey page.
+
+**Thoughts**: I think it looks nice.
+
+
