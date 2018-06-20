@@ -41,3 +41,9 @@ I'll start a blog soon.
 **Thoughts**: I think it looks nice.
 
 
+### Day 7: June 20, 2018
+**Today's Progress**: I almost finished the survey page.
+
+**Thoughts**: It was all perfect until the very last moment when I broke all the CSS. Frustrating, but tomorrow I will fix it.
+
+
