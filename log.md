@@ -47,3 +47,7 @@ I'll start a blog soon.
 **Thoughts**: It was all perfect until the very last moment when I broke all the CSS. Frustrating, but tomorrow I will fix it.
 
 
+### Day 8: June 21, 2018
+**Today's Progress**: I finally finished the survey page!
+
+**Thoughts**: It is satisfying to finishe something you started. I should start finishing things I once started and never finished.
