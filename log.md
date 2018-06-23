@@ -51,3 +51,9 @@ I'll start a blog soon.
 **Today's Progress**: I finally finished the survey page!
 
 **Thoughts**: It is satisfying to finishe something you started. I should start finishing things I once started and never finished.
+
+
+### Day 9: June 23, 2018
+**Today's Progress**: I went through some syntactic and responsive issues on the survey page, and did some js basics exercises.
+
+**Thoughts**: Yesterday I missed the challenge. I think I should do some algorithms challenges like hackerrank
