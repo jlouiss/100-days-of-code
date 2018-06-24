@@ -57,3 +57,11 @@ I'll start a blog soon.
 **Today's Progress**: I went through some syntactic and responsive issues on the survey page, and did some js basics exercises.
 
 **Thoughts**: Yesterday I missed the challenge. I think I should do some algorithms challenges like hackerrank
+
+
+### Day 10: June 24, 2018
+**Today's Progress**: Did ES6 and regex exercises on freecodecamp.
+
+**Thoughts**: I have a bad headache.
+
+
