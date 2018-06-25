@@ -65,3 +65,7 @@ I'll start a blog soon.
 **Thoughts**: I have a bad headache.
 
 
+### Day 11: June 25, 2018
+**Today's Progress**: I completed some regexp exercises.
+
+**Thoughts**: RegExp looks like magic.
