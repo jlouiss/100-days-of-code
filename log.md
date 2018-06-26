@@ -65,3 +65,8 @@ I'll start a blog soon.
 **Thoughts**: I have a bad headache.
 
 
+### Day 12: June 26, 2018
+**Today's Progress**: Completed regexp, debugging and basic data strutures on freecodecamp.
+
+**Thoughts**: I can't find my log for yesterday.
+
