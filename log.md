@@ -69,3 +69,10 @@ I'll start a blog soon.
 **Today's Progress**: I completed some regexp exercises.
 
 **Thoughts**: RegExp looks like magic.
+
+
+### Day 12: June 26, 2018
+**Today's Progress**: Completed regexp, debugging and basic data strutures on freecodecamp.
+
+**Thoughts**: I can't find my log for yesterday.
+
