@@ -76,3 +76,9 @@ I'll start a blog soon.
 
 **Thoughts**: I can't find my log for yesterday.
 
+
+### Day 13: June 27, 2018
+**Today's Progress**: I finished the object oriented programming section on freecodecamp.
+
+**Thoughts**: I like that freecodecamp talks about the prototype and explains how it works. I think it should also explain the difference between *classic* object oriented and object oriented with the prototype.
+P.S.: I found yesterday's log
