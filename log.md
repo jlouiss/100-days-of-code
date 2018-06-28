@@ -82,3 +82,9 @@ I'll start a blog soon.
 
 **Thoughts**: I like that freecodecamp talks about the prototype and explains how it works. I think it should also explain the difference between *classic* object oriented and object oriented with the prototype.
 P.S.: I found yesterday's log
+
+
+### Day 14: June 28, 2018
+**Today's Progress**: I finished the functional programming section and intermediate algorithm scripting on freecodecamp.
+
+**Thoughts**: Functional is better.
