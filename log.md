@@ -88,3 +88,11 @@ P.S.: I found yesterday's log
 **Today's Progress**: I finished the functional programming section and intermediate algorithm scripting on freecodecamp.
 
 **Thoughts**: Functional is better.
+
+
+### Day 15: June 29, 2018
+**Today's Progress**: I finished the *JavaScript Algorithms and Data Structures*section.
+
+**Thoughts**: I **FINALLY** did it!
+
+**Link**: [https://www.freecodecamp.org/certification/jlouiss/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/jlouiss/javascript-algorithms-and-data-structures)
