@@ -96,3 +96,9 @@ P.S.: I found yesterday's log
 **Thoughts**: I **FINALLY** did it!
 
 **Link**: [https://www.freecodecamp.org/certification/jlouiss/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/jlouiss/javascript-algorithms-and-data-structures)
+
+
+### Day 16: June 30, 2018
+**Today's Progress**: I finished the Sass section and started react.
+
+**Thoughts**: I always kept some distance from react, but giving it a try will show me things from another perspective.
