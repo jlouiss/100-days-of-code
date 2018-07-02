@@ -104,7 +104,14 @@ P.S.: I found yesterday's log
 **Thoughts**: I always kept some distance from react, but giving it a try will show me things from another perspective.
 
 
-### Day 17: June 31, 2018
+### Day 17: July 01, 2018
 **Today's Progress**: I did more react on freeCodeCamp.
 
 **Thoughts**: JSX feels a bit *off*, like it's something outside of the "HTML, CSS, JS" scope. I can't wrap my mind around it.
+
+
+### Day 18: July 02, 2018
+**Today's Progress**: I solved a difficult problem using JS.
+
+**Thoughts**: That precise moment when you finally solve a problem.
+
