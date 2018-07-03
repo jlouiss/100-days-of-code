@@ -115,3 +115,10 @@ P.S.: I found yesterday's log
 
 **Thoughts**: That precise moment when you finally solve a problem.
 
+
+### Day 19: July 03, 2018
+**Today's Progress**: I completed some react challenges on freeCodeCamp.
+
+**Thoughts**: I get why people like react so much.
+
+
