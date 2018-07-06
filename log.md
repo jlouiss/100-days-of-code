@@ -122,3 +122,19 @@ P.S.: I found yesterday's log
 **Thoughts**: I get why people like react so much.
 
 
+### Day 20: July 04, 2018
+**Today's Progress**: I did more react
+
+**Thoughts**: null
+
+
+### Day 21: July 05, 2018
+**Today's Progress**: I finished the react challenges on freeCodeCamp.
+
+**Thoughts**: return 0;
+
+
+### Day 22: July 06, 2018
+**Today's Progress**: I started making the product landing page.
+
+**Thoughts**: I like css gradients
