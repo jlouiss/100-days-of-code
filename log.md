@@ -138,3 +138,10 @@ P.S.: I found yesterday's log
 **Today's Progress**: I started making the product landing page.
 
 **Thoughts**: I like css gradients
+
+
+### Day 23: July 07, 2018
+**Today's Progress**: I worked more on the product landing page project.
+
+**Thoughts**: Overwhelmed
+
