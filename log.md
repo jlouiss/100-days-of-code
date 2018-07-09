@@ -145,3 +145,8 @@ P.S.: I found yesterday's log
 
 **Thoughts**: Overwhelmed
 
+
+### Day 24: July 08, 2018
+**Today's Progress**: I completed the Redux section and started the React and Redux one.
+
+**Thoughts**: null
