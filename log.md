@@ -150,3 +150,8 @@ P.S.: I found yesterday's log
 **Today's Progress**: I completed the Redux section and started the React and Redux one.
 
 **Thoughts**: null
+
+### Day 25: July 10, 2018
+**Today's Progress**: I did some more React and Redux challenges on freeCodeCamp.
+
+**Thoughts**: I skipped my day yesterday. Redux seems good.
