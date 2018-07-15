@@ -173,3 +173,9 @@ P.S.: I found yesterday's log
 **Today's Progress**: Finished refactoring RQM.
 
 **Thoughts**: It looks nicer than the first version.
+
+
+### Day 29: July 14, 2018
+**Today's Progress**: Refactored a bit of the pomodoro timer and started the drum kit project.
+
+**Thoughts**: I need to stop taking too long to start.
