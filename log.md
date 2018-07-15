@@ -155,3 +155,21 @@ P.S.: I found yesterday's log
 **Today's Progress**: I did some more React and Redux challenges on freeCodeCamp.
 
 **Thoughts**: I skipped my day yesterday. Redux seems good.
+
+
+### Day 26: July 11, 2018
+**Today's Progress**: I completed the React and Redux section. Started refactoring the random quote machine
+
+**Thoughts**: null
+
+
+### Day 27: July 12, 2018
+**Today's Progress**: Refactored Random Quote Machine.
+
+**Thoughts**: Boredom
+
+
+### Day 28: July 13, 2018
+**Today's Progress**: Finished refactoring RQM.
+
+**Thoughts**: It looks nicer than the first version.
