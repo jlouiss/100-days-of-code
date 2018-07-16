@@ -179,3 +179,15 @@ P.S.: I found yesterday's log
 **Today's Progress**: Refactored a bit of the pomodoro timer and started the drum kit project.
 
 **Thoughts**: I need to stop taking too long to start.
+
+
+### Day 30: July 15, 2018
+**Today's Progress**: Did some work on the drum kit project
+
+**Thoughts**: null
+
+
+### Day 31: July 16, 2018
+**Today's Progress**: Worked a bit on the drum kit project and product landing page.
+
+**Thought**: Today I felt really demotivated. Tomorrow will be a better day.
