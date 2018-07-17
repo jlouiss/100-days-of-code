@@ -190,4 +190,10 @@ P.S.: I found yesterday's log
 ### Day 31: July 16, 2018
 **Today's Progress**: Worked a bit on the drum kit project and product landing page.
 
-**Thought**: Today I felt really demotivated. Tomorrow will be a better day.
+**Thoughts**: Today I felt really demotivated. Tomorrow will be a better day.
+
+
+### Day 32: July 17, 2018
+**Today's Progress**: I worked on the product landing page.
+
+**Thoughts**: null
