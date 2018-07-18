@@ -197,3 +197,9 @@ P.S.: I found yesterday's log
 **Today's Progress**: I worked on the product landing page.
 
 **Thoughts**: null
+
+
+### Day 33: July 18, 2018
+**Today's Progress**: I worked on the product landing page.
+
+**Thoughts**: It's taking a lot of time to finish this project, but I care about making things that look good.
