@@ -209,3 +209,9 @@ P.S.: I found yesterday's log
 **Today's Progress**: I worked on the product landing page.
 
 **Thoughts**: Tomorrow I will get up early.
+
+
+### Day 35: July 20, 2018
+**Today's Progress**: I did more product landing page and I started the D3 section on freeCodeCamp.
+
+**Thoughts**: null
