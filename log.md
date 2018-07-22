@@ -215,3 +215,9 @@ P.S.: I found yesterday's log
 **Today's Progress**: I did more product landing page and I started the D3 section on freeCodeCamp.
 
 **Thoughts**: null
+
+
+### Day 36: July 21, 2018
+**Today's Progress**: I didsome D3 challenges on freecodecamp.
+
+**Thougts**: I need to do this earlier so I can sleep earlier
