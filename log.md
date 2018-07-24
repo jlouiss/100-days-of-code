@@ -218,6 +218,24 @@ P.S.: I found yesterday's log
 
 
 ### Day 36: July 21, 2018
-**Today's Progress**: I didsome D3 challenges on freecodecamp.
+**Today's Progress**: I did some D3 challenges on freecodecamp.
 
 **Thougts**: I need to do this earlier so I can sleep earlier
+
+
+### Day 37: July 22, 2018
+**Today's Progress**: More D3
+
+**Thoughts**: none
+
+
+### Day 38: July 23, 2018
+**Today's Progress**: Finished the D3 challenges and JSON API
+
+**Thoughts**: none
+
+
+### Day 39: July 24, 2018
+**Today's Progress**: Almost finished the product landing page
+
+**Thoughts**: Perfect is the enemy of good
