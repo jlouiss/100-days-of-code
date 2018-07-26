@@ -239,3 +239,9 @@ P.S.: I found yesterday's log
 **Today's Progress**: Almost finished the product landing page
 
 **Thoughts**: Perfect is the enemy of good
+
+
+### Day 40: July 26, 2018
+**Today's Progress**: I finally finished the product landing page
+
+**Thoughts**: Finishing things feels good
