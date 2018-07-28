@@ -251,3 +251,11 @@ P.S.: I found yesterday's log
 **Today's Progress**: Did the npm section on freecodecamp and some basic node and express section
 
 **Link**: https://phase-ambulance.glitch.me/ && https://illustrious-chickadee.glitch.me/
+
+
+### Day 42: July 28, 2018
+**Today's Progress**: Did more express challenges
+
+**Thoughts**: I really like express
+
+**Link**: https://illustrious-chickadee.glitch.me/
