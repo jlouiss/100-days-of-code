@@ -245,3 +245,9 @@ P.S.: I found yesterday's log
 **Today's Progress**: I finally finished the product landing page
 
 **Thoughts**: Finishing things feels good
+
+
+### Day 41: July 27, 2018
+**Today's Progress**: Did the npm section on freecodecamp and some basic node and express section
+
+**Link**: https://phase-ambulance.glitch.me/ && https://illustrious-chickadee.glitch.me/
