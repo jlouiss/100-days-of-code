@@ -259,3 +259,9 @@ P.S.: I found yesterday's log
 **Thoughts**: I really like express
 
 **Link**: https://illustrious-chickadee.glitch.me/
+
+
+### Day 43: July 29, 2018
+**Today's Progress**: Finished the express challenges
+
+**Thoughts**: I like express
