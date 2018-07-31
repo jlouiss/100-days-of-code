@@ -256,7 +256,7 @@ P.S.: I found yesterday's log
 ### Day 36: July 21, 2018
 **Today's Progress**: I did some D3 challenges on freecodecamp.
 
-**Thougts**: I need to do this earlier so I can sleep earlier
+**Thoughts**: I need to do this earlier so I can sleep earlier
 
 ---
 
@@ -312,8 +312,16 @@ P.S.: I found yesterday's log
 ---
 
 ### Day 44: July 30, 2018
-**Today's Progress**: Did
+**Today's Progress**: Did mongoDB challenges
 
 **Thoughts**: MongoDB feels like a breeze of fresh air
 
 **Link**: https://mighty-shield.glitch.me/
+
+---
+
+### Day 45: July 31, 2018
+**Today's Progress**: I finished the mongoDB challenges, now I started the timestamp microservice project.
+
+**Thoughts**: null
+
