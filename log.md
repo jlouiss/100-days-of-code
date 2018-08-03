@@ -332,3 +332,9 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 47: August 2, 2018
+**Today's Progress**: I set up WebStorm and tried to set up a TDD environment on the timestamp microservice project.
+
+**Thoughts**: Jetbrains makes awesome IDEs
