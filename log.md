@@ -338,3 +338,12 @@ P.S.: I found yesterday's log
 **Today's Progress**: I set up WebStorm and tried to set up a TDD environment on the timestamp microservice project.
 
 **Thoughts**: Jetbrains makes awesome IDEs
+
+---
+
+### Day 48: August 3, 2018
+**Today's Progress**: I finally managed to set up the TDD environment with Jest and Chai.
+
+**Thoughts**: I am really satisfied with webstorm
+
+
