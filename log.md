@@ -353,4 +353,16 @@ P.S.: I found yesterday's log
 
 **Thoughts**: Did it
 
+---
 
+### Day 50: August 5, 2018
+**Today's Progress**: I started and finished the request header parser project
+
+**Thoughts**: null
+
+---
+
+### Day 51: August 6, 2018
+**Today's Progress**: I started working on the url shortener project
+
+**Thoughts**: null
