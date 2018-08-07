@@ -366,3 +366,12 @@ P.S.: I found yesterday's log
 **Today's Progress**: I started working on the url shortener project
 
 **Thoughts**: null
+
+---
+
+### Day 52: August 7, 2018
+**Today's Progress**: Spent my time setting up the test environment on the url shortener project and setting up mongodb locally
+
+**Thoughts**: null
+
+
