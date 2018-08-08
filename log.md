@@ -374,4 +374,12 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 53: August 8, 2018
+**Today's Progress**: Worked on the url shortener project and started the MongoDB University MongoDB Basics course
+
+**Thoughts**: Compass is a beautiful tool
+
+**Link**: https://university.mongodb.com/mercury/M001/2018_August/syllabus
 
