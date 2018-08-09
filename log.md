@@ -383,3 +383,10 @@ P.S.: I found yesterday's log
 
 **Link**: https://university.mongodb.com/mercury/M001/2018_August/syllabus
 
+---
+
+### Day 54: August 9, 2018
+**Today's Progress**: Worked on the url shortener project and finished the introduction part of the MongoDB Basics course.
+
+**Thoughts** I like MongoDB
+
