@@ -388,5 +388,13 @@ P.S.: I found yesterday's log
 ### Day 54: August 9, 2018
 **Today's Progress**: Worked on the url shortener project and finished the introduction part of the MongoDB Basics course.
 
-**Thoughts** I like MongoDB
+**Thoughts**: I like MongoDB
+
+---
+
+### Day 55: August 10, 2018
+**Today's Progress**: Worked on the url shortener project
+
+**Thoughts**: This is way better than php and mysql
+
 
