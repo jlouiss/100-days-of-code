@@ -404,3 +404,10 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 57: August 12, 2018
+**Today's Progress**: Worked on the URL shortener project
+
+**Thoughts**: I like MongoDB
+
