@@ -411,3 +411,10 @@ P.S.: I found yesterday's log
 
 **Thoughts**: I like MongoDB
 
+---
+
+### Day 58: August 13, 2018
+**Today's Progress**: Did the first week of MongoDB University's MongoDB for Node.js Developers course.
+
+**Thoughts**: null
+
