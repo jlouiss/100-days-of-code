@@ -418,3 +418,18 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 59: August 14, 2018
+**Today's Progress**: Worked on the URL shortener project
+
+**Thoughts**: null
+
+---
+
+### Day 60: August 16, 2018
+**Today's Progress**: I found my way by using middlewares
+
+**Thoughts**: undefined
+
+
