@@ -432,4 +432,12 @@ P.S.: I found yesterday's log
 
 **Thoughts**: undefined
 
+---
+
+### Day 61: August 17, 2018
+**Today's Progress**: I completed the URL shortener project
+
+**Thoughts**: feels awesome
+
+
 
