@@ -439,5 +439,11 @@ P.S.: I found yesterday's log
 
 **Thoughts**: feels awesome
 
+---
+
+### Day 62: August 18, 2018
+**Today's Progress**: I started working on the exercise tracker project
+
+**Thoughts**: null
 
 
