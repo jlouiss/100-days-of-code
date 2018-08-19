@@ -446,4 +446,12 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 63: August 19, 2018
+**Today's Progress**: User insertion works for the exercise tracker. Started Week 2 of MongoDB basics.
+
+**Thoughts**: null
+
+
 
