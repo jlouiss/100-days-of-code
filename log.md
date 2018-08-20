@@ -453,5 +453,10 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
 
+### Day 64: August 20, 2018
+**Today's Progress**: Continued with week 2 of MongoDB Basics
+
+**Thoughts**: null
 
