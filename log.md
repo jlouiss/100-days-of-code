@@ -467,4 +467,10 @@ P.S.: I found yesterday's log
 
 **Thoughts**: I like MongoDB
 
+---
+
+### Day 66: August 22, 2018
+**Today's Progress**: Completed week 3 of MongoDB Basics
+
+**Thoughts**: null
 
