@@ -474,3 +474,11 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 67: August 23, 2018
+**Today's Progress**: Finished the MongoDB Basics course, and started the file metadata microservice project
+
+**Thoughts**: I'm almost done with the api certificate
+
+
