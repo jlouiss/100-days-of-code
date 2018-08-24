@@ -481,4 +481,12 @@ P.S.: I found yesterday's log
 
 **Thoughts**: I'm almost done with the api certificate
 
+---
+
+### Day 68: August 24, 2018
+**Today's Progress**: Finished file metadata microservice
+
+**Thoughts**: null
+
+**Link**: [link](https://agreeable-kitty.glitch.me/)
 
