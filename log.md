@@ -490,3 +490,10 @@ P.S.: I found yesterday's log
 
 **Link**: [link](https://agreeable-kitty.glitch.me/)
 
+---
+
+### Day 69: August 25, 2018
+**Today's Progress**: Updated the frontend for the exercise tracker project
+
+**Thoughts**: null
+
