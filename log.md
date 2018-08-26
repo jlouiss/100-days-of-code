@@ -497,3 +497,10 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 70: August 26, 2018
+**Today's Progress**: Worked on the exercise tracker project
+
+**Links**: [link](http://learnmongodbthehardway.com/schema/schemabasics/)
+
