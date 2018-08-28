@@ -502,6 +502,8 @@ P.S.: I found yesterday's log
 ### Day 70: August 26, 2018
 **Today's Progress**: Worked on the exercise tracker
 
+**Links**: [link](http://learnmongodbthehardway.com/schema/schemabasics/)
+
 ---
 
 ### Day 71: August 27, 2018
@@ -511,5 +513,4 @@ P.S.: I found yesterday's log
 
 ### Day 72: August 28, 2018
 **Today's Progress**: Exercise insertion now works for the exercise tracker
-
 
