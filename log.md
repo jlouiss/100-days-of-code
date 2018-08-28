@@ -497,3 +497,19 @@ P.S.: I found yesterday's log
 
 **Thoughts**: null
 
+---
+
+### Day 70: August 26, 2018
+**Today's Progress**: Worked on the exercise tracker
+
+---
+
+### Day 71: August 27, 2018
+**Today's Progress**: Worked on the exercise tracker
+
+---
+
+### Day 72: August 28, 2018
+**Today's Progress**: Exercise insertion now works for the exercise tracker
+
+
