@@ -514,3 +514,10 @@ P.S.: I found yesterday's log
 ### Day 72: August 28, 2018
 **Today's Progress**: Exercise insertion now works for the exercise tracker
 
+---
+
+### Day 73: August 29, 2018
+**Today's Progress**: Worked on the exercise tracker
+
+
+
