@@ -524,4 +524,8 @@ P.S.: I found yesterday's log
 ### Day 74: August 30, 2018
 **Today's Progress**: Worked on the exercise tracker
 
+---
+
+### Day 75: August 31, 2018
+**Today's Progress**: Almost done with the exercise tracker
 
