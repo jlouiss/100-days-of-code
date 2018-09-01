@@ -529,3 +529,7 @@ P.S.: I found yesterday's log
 ### Day 75: August 31, 2018
 **Today's Progress**: Almost done with the exercise tracker
 
+---
+
+### Day 76: September 1, 2018
+**Today's Progress**: I completed the APIs and microservices certification :)
