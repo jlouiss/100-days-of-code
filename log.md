@@ -533,3 +533,8 @@ P.S.: I found yesterday's log
 
 ### Day 76: September 1, 2018
 **Today's Progress**: I completed the APIs and microservices certification :)
+
+---
+
+### Day 77: September 3, 2018
+**Today's Progress**: I did some codesignal.com
