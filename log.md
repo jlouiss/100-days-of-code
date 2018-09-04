@@ -538,3 +538,11 @@ P.S.: I found yesterday's log
 
 ### Day 77: September 3, 2018
 **Today's Progress**: I did some codesignal.com
+
+---
+
+### Day 78: September 4, 2018
+**Today's Progress**: Started the Information Security And Quality Assurance Certification on FreeCodeCamp.
+
+**Link**: [link](https://even-scent.glitch.me)
+
