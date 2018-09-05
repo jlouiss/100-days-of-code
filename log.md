@@ -546,3 +546,8 @@ P.S.: I found yesterday's log
 
 **Link**: [link](https://even-scent.glitch.me)
 
+---
+
+### Day 79: September 5, 2018
+**Today's Progress**: Started the Full-Stack Web Development with React course by Hong Kong University on Coursera.
+
