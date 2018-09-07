@@ -551,3 +551,14 @@ P.S.: I found yesterday's log
 ### Day 79: September 5, 2018
 **Today's Progress**: Started the Full-Stack Web Development with React course by Hong Kong University on Coursera.
 
+---
+
+### Day 80: September 6, 2018
+**Today's Progress**: Started M1W1 of the full stack course.
+
+---
+
+### Day 81: September 7, 2018
+**Today's Progress**: Finished M1W1, started M1W2.
+
+
