@@ -577,5 +577,8 @@ P.S.: I found yesterday's log
 ### Day 84: September 10, 2018
 **Today's Progress**: Did more M1W2.
 
+---
 
+### Day 85: September 11, 2018
+**Today's Progress**: Finished M1W2, started M1W3.
 
