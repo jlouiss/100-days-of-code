@@ -592,6 +592,9 @@ P.S.: I found yesterday's log
 ### Day 87: September 13, 2018
 **Today's Progress**: Finished M1!
 
+---
 
+### Day 88: September 14, 2018
+**Today's Progress**: Started React module of the full stack course
 
 
