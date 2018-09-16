@@ -600,6 +600,12 @@ P.S.: I found yesterday's log
 ---
 
 ### Day 89: September 15, 2018
-**Today's Progress**: Did M2M1
+**Today's Progress**: Did M2W1
 
+---
+
+### Day 90: September 16, 2018
+**Today's Progress**: I received my first coursera certification for completing the first module of the full stack specialization. Then I finished M2W1 and started M2W2.
+
+**Link**: [Certificate](https://www.coursera.org/account/accomplishments/certificate/M74CMDRBYMA8)
 
