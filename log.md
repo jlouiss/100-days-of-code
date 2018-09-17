@@ -609,3 +609,8 @@ P.S.: I found yesterday's log
 
 **Link**: [Certificate](https://www.coursera.org/account/accomplishments/certificate/M74CMDRBYMA8)
 
+---
+
+### Day 91: September 17, 2018
+**Today's Progress**: Did M2W2.
+ 
