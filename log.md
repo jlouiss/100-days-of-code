@@ -614,3 +614,8 @@ P.S.: I found yesterday's log
 ### Day 91: September 17, 2018
 **Today's Progress**: Did M2W2.
  
+---
+
+### Day 92: September 18, 2018
+**Today's Progress**: Did M2W2.
+
