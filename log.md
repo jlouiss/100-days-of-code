@@ -624,4 +624,9 @@ P.S.: I found yesterday's log
 ### Day 93: September 19, 2018
 **Today's Progress**: Finished M2W2.
 
+---
+
+### Day 94: September 20, 2018
+**Today's Progress**: Started M2W3.
+
 
