@@ -634,5 +634,14 @@ P.S.: I found yesterday's log
 ### Day 95: September 22, 2018
 **Today's Progress**: Did M2W3.
 
+---
+
+### Day 96: September 23, 2018
+**Today's Progress**: Did M2W3.
+
+---
+
+### Day 97: September 24, 2018
+**Today's Progress**: Did M2W3.
 
 
