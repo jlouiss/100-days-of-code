@@ -653,3 +653,11 @@ P.S.: I found yesterday's log
 
 ### Day 99: September 26, 2018
 **Today's Progress**: Did M2W4.
+
+---
+
+### Day 100: September 27, 2018
+**Today's Progress**: Did M2W4.
+
+**Thoughts**: I will keep doing one hour (or more) of studying everyday.
+
